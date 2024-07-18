@@ -26,4 +26,4 @@ HTML/CSS
 JavaScript
 
 API:
-OpenWeatherMap API (or any other preferred weather API)
+OpenWeatherMap API 
